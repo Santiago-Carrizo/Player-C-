@@ -1,0 +1,6 @@
+C:\Users\citna\source\repos\DI_Suf_Ejer9\ComponenteReproductor\obj\Debug\ComponenteReproductor.csproj.AssemblyReference.cache
+C:\Users\citna\source\repos\DI_Suf_Ejer9\ComponenteReproductor\obj\Debug\ComponenteReproductor.csproj.SuggestedBindingRedirects.cache
+C:\Users\citna\source\repos\DI_Suf_Ejer9\ComponenteReproductor\obj\Debug\ComponenteReproductor.Componente.resources
+C:\Users\citna\source\repos\DI_Suf_Ejer9\ComponenteReproductor\obj\Debug\ComponenteReproductor.Properties.Resources.resources
+C:\Users\citna\source\repos\DI_Suf_Ejer9\ComponenteReproductor\obj\Debug\ComponenteReproductor.csproj.GenerateResource.cache
+C:\Users\citna\source\repos\DI_Suf_Ejer9\ComponenteReproductor\obj\Debug\ComponenteReproductor.csproj.CoreCompileInputs.cache

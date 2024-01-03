@@ -1,0 +1,26 @@
+C:\Users\citna\source\repos\DI_Suf_Ejer9\ComponenteRep\bin\Debug\ComponenteRep.dll
+C:\Users\citna\source\repos\DI_Suf_Ejer9\ComponenteRep\bin\Debug\ComponenteRep.pdb
+C:\Users\citna\source\repos\DI_Suf_Ejer9\ComponenteRep\obj\Debug\ComponenteRep.csproj.AssemblyReference.cache
+C:\Users\citna\source\repos\DI_Suf_Ejer9\ComponenteRep\obj\Debug\ComponenteRep.UserControl1.resources
+C:\Users\citna\source\repos\DI_Suf_Ejer9\ComponenteRep\obj\Debug\ComponenteRep.csproj.GenerateResource.cache
+C:\Users\citna\source\repos\DI_Suf_Ejer9\ComponenteRep\obj\Debug\ComponenteRep.csproj.CoreCompileInputs.cache
+C:\Users\citna\source\repos\DI_Suf_Ejer9\ComponenteRep\obj\Debug\ComponenteRep.dll
+C:\Users\citna\source\repos\DI_Suf_Ejer9\ComponenteRep\obj\Debug\ComponenteRep.pdb
+C:\Users\Santiago\Source\Repos\DI\DI_Suf_Ejer9\ComponenteRep\bin\Debug\ComponenteRep.dll
+C:\Users\Santiago\Source\Repos\DI\DI_Suf_Ejer9\ComponenteRep\bin\Debug\ComponenteRep.pdb
+C:\Users\Santiago\Source\Repos\DI\DI_Suf_Ejer9\ComponenteRep\obj\Debug\ComponenteRep.csproj.AssemblyReference.cache
+C:\Users\Santiago\Source\Repos\DI\DI_Suf_Ejer9\ComponenteRep\obj\Debug\ComponenteRep.UserControl1.resources
+C:\Users\Santiago\Source\Repos\DI\DI_Suf_Ejer9\ComponenteRep\obj\Debug\ComponenteRep.csproj.GenerateResource.cache
+C:\Users\Santiago\Source\Repos\DI\DI_Suf_Ejer9\ComponenteRep\obj\Debug\ComponenteRep.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Source\Repos\DI\DI_Suf_Ejer9\ComponenteRep\obj\Debug\ComponenteRep.dll
+C:\Users\Santiago\Source\Repos\DI\DI_Suf_Ejer9\ComponenteRep\obj\Debug\ComponenteRep.pdb
+C:\Users\Santiago\Source\Repos\DI\DI_Suf_Ejer9\ComponenteRep\obj\Debug\ComponenteRep.Properties.Resources.resources
+C:\Users\citna\source\repos\DI\DI_Suf_Ejer9 saved - copia\ComponenteRep\bin\Debug\ComponenteRep.dll
+C:\Users\citna\source\repos\DI\DI_Suf_Ejer9 saved - copia\ComponenteRep\bin\Debug\ComponenteRep.pdb
+C:\Users\citna\source\repos\DI\DI_Suf_Ejer9 saved - copia\ComponenteRep\obj\Debug\ComponenteRep.csproj.AssemblyReference.cache
+C:\Users\citna\source\repos\DI\DI_Suf_Ejer9 saved - copia\ComponenteRep\obj\Debug\ComponenteRep.Properties.Resources.resources
+C:\Users\citna\source\repos\DI\DI_Suf_Ejer9 saved - copia\ComponenteRep\obj\Debug\ComponenteRep.UserControl1.resources
+C:\Users\citna\source\repos\DI\DI_Suf_Ejer9 saved - copia\ComponenteRep\obj\Debug\ComponenteRep.csproj.GenerateResource.cache
+C:\Users\citna\source\repos\DI\DI_Suf_Ejer9 saved - copia\ComponenteRep\obj\Debug\ComponenteRep.csproj.CoreCompileInputs.cache
+C:\Users\citna\source\repos\DI\DI_Suf_Ejer9 saved - copia\ComponenteRep\obj\Debug\ComponenteRep.dll
+C:\Users\citna\source\repos\DI\DI_Suf_Ejer9 saved - copia\ComponenteRep\obj\Debug\ComponenteRep.pdb
